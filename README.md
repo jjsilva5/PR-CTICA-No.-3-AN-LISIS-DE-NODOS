@@ -14,9 +14,11 @@
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 3.1. MATERIAL Y EQUIPO REQUERIDO
+
 ![image](https://user-images.githubusercontent.com/117045943/203903258-17addf77-295c-4741-8b9f-6c60bcb2bbea.png)
 
 3.2. Implemente el circuito que se presenta en la figura 3.1.
+
 ![image](https://user-images.githubusercontent.com/117045943/203903315-cb36334a-609b-482e-aec4-f014f8267c83.png)
 
 3.3. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
@@ -26,12 +28,15 @@
 valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
 Nodo 1:
+
 ![image](https://user-images.githubusercontent.com/117045943/203903478-1c9e2691-8028-41b7-ad2d-0f89b195e0f2.png)
 
 Nodo 2:
+
 ![image](https://user-images.githubusercontent.com/117045943/203903503-52357fa8-5923-4afa-a992-2a7125741db6.png)
 
 Nodo 3:
+
 ![image](https://user-images.githubusercontent.com/117045943/203903531-138a415a-3b3e-4f3a-bdd1-c91cdeb56157.png)
 
 
@@ -40,6 +45,7 @@ Tabla 4.1. Resultados Obtenidos para el circuito de la figura 2.1.
 
 
 4.2 Calculo De Error
+
 ![image](https://user-images.githubusercontent.com/117045943/203904229-9ccf0a89-c437-4a51-a76c-58919959b8e3.png)
 
 
