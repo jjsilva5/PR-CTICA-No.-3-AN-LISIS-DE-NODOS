@@ -77,7 +77,7 @@ Tabla 4.1. Resultados Obtenidos para el circuito de la figura 2.1.
 
 5. VIDEO
 
-
+https://drive.google.com/file/d/1XvnEHXAJv0-LnBUP_ud82lyDR-gQAhZP/view?usp=share_link
 
 6.CONCLUSIONES
 
